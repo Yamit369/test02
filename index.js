@@ -13,3 +13,28 @@ while(numberOfBottles >= 0 ){
         console.log("No more bottles of beer into the wall")
    }
 }
+
+
+
+function fibonacciGenerator (n) {
+    //Do NOT change any of the code above 👆
+        
+        //Write your code here:
+        var output = [];
+        
+        for (var i = 0; i = n; i ++ ){
+
+            var numberf= 1;
+            var count = i + numberf;
+            var countcon = count + i; 
+            
+        }
+        
+        
+        
+        
+        
+        //Return an array of fibonacci numbers starting from 0.
+        
+    //Do NOT change any of the code below 👇
+    }
