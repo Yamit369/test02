@@ -4,3 +4,11 @@ body{
     color: blueviolet;
     text-shadow: 1in;
 }
+
+
+.btn1{
+  background-color: gainsboro;
+  color: yellowgreen;
+  font-style: italic;
+
+}
