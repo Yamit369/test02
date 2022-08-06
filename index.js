@@ -17,7 +17,12 @@ document.querySelector('h1').innerHTML="The best Hooney that you have test";
 //document.querySelector("button").classList.remove("invisible"); here we are taking away that class 
 //document.querySelector("button").classList.toggle("invisible");here the classs will toggle depending if it is class is alredy apply or not
 // for the style of somenthig we can go to CSS and for the behavour is the JS
-
+//document.getElementById("title").innerHTML = "Good Bye"; this one gives you the firs element including other elements that can be into it like strong
+//document.querySelector("h1").innerHTML = "<em>Coding!!!!</em>"; it changes even the elements that acompany this element in general.
+//document.getElementById("title").textContent = "hello"; this one is focus on the text value
+//document.querySelector("a").getAttribute("href");
+//"https://www.google.com"
+//document.querySelector("a").setAttribute("href", "https://www.morebees.com")= for seting an attribute we need to say which attribute we are taking into acount and the second what value we are implementing
 
 
 
